@@ -128,4 +128,4 @@ async def stop(ctx):
         await ctx.send("🛑 已停止播放並離開語音頻道。")
 
 # 將你的機器人 Token 貼在這裡
-bot.run("111")
+bot.run("YOUR BOT TOKEN")
